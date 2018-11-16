@@ -1,5 +1,5 @@
 # vc-tween-one
 
-tween-one anim component for vue
+tween-one animate component for vue
 
 
